@@ -5,7 +5,8 @@ Git tracks changes.
 Creating a new branch is quick.
 This is pushed by dev branch.
 Creating a new branch is quick and simple.
-one change in dev.
+this is a fixed bug through issue-101.
+
 
 
 
