@@ -4,3 +4,4 @@ Git is under learning.
 Git tracks changes.
 Creating a new branch is quick.
 This is pushed by dev branch.
+Creating a new branch is quick AND simple.
