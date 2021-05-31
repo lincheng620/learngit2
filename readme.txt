@@ -6,6 +6,7 @@ Creating a new branch is quick.
 This is pushed by dev branch.
 Creating a new branch is quick and simple.
 one change in dev.
+this is fixed by feature1.
 
 
 
